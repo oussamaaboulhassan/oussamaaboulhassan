@@ -14,8 +14,9 @@ Young, hard worker who decided to follow his passion, and make a living out of i
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=oussamaaboulhassan&label=Profile%20Views&pretty=false" />
+</a>
 [![](https://visitcount.itsvg.in/api?id=oussamaaboulhassan&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
